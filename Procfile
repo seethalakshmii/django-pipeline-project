@@ -1,1 +1,1 @@
-web: gunicorn pipelineproject.wsgi:application
+web: gunicorn pipelineproject.wsgi
