@@ -30,5 +30,5 @@ Automation: Established a webhook-based trigger that automatically initiates the
 ![Live Site](./screenshots/LiveSite.png)
 
 ### **IAM Role Configuration & EB Events**
-![IAM Policy](./screenshots/IAM_permissions.png)
+![IAM Policy](./screenshots/IAMPermissions.png)
 ![EB Events](./screenshots/events.png)
